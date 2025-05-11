@@ -1,0 +1,5 @@
+# Mengabaikan folder dontpush
+/dontpush/
+
+# Mengabaikan virtual environment Python
+.venv/
