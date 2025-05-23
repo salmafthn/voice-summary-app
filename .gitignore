@@ -3,3 +3,5 @@
 
 # Mengabaikan virtual environment Python
 .venv/
+
+.data/
